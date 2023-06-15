@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer & Generalist
 ---------------------------------
 
-Earned first $ over internet in 2008 Creator of PayPlans: The world's #1 Joomla payment component (2009-2017, Sold) Participated in India-US Startup Konnect, led by Indian Prime Minister Narendra Modi in 2015 The product guy : Developed more than 20 products in last 15 years. Originally a Compiler Developer, moved to Web Development out of curiosity.
+*  Earned first $ over internet in 2008 
+*  Creator of PayPlans: The world's #1 Joomla payment component (2009-2017, Sold) 
+*  Participated in India-US Startup Konnect, led by Indian Prime Minister Narendra Modi in 2015 
+*  The product guy : Developed more than 20 products in last 15 years. 
+*  Originally a Compiler Developer, moved to Web Development out of curiosity.
 
 *   I'm based in India
 *   You can contact me at [er.ssverma@gmail.com](mailto:er.ssverma@gmail.com)
@@ -49,5 +53,3 @@ src="https://img.shields.io/twitter/follow/ssv445?logo=twitter&style=for-the-bad
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ssv445"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ssv445&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ssv445"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ssv445&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
