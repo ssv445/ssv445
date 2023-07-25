@@ -9,7 +9,7 @@ I am Shyam Verma
 
 Solution Architect
 ---------------------------------
-*   I am a Results-driven Solution Architect with 15+ years of experience in architecting and delivering scalable web solutions.
-*   I'm based in India
-*   You can contact me on https://twitter.com/ssv445
-*   I'm open to collaborating on Development
+* I am a Results-driven Solution Architect with 15+ years of experience in architecting and delivering scalable web solutions.
+* I'm based in India
+* You can contact me on https://twitter.com/ssv445
+* I'm open to collaborating on Development
