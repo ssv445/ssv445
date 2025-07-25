@@ -8,7 +8,7 @@ I am Shyam Verma
 *  Originally a Compiler Developer, moved to Web Development out of curiosity.
 *  Co-Founder: https://Linkstorm.io
 
-End To End Developer : Idea -> Development -> Deployment -> SEO & Marketing
+End To End Developer : Idea -> Development -> Deployment 
 ------------------------------------------------------------------
 * I'm based in India
 * You can contact me on https://twitter.com/ssv445
