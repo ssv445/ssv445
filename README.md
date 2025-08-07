@@ -11,5 +11,5 @@ I am Shyam Verma
 End To End Developer : Idea -> Development -> Deployment 
 ------------------------------------------------------------------
 * I'm based in India
-* You can contact me on https://twitter.com/ssv445
+* You can contact me on https://ssv445.com
 * I'm open to collaborating
