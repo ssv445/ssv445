@@ -23,10 +23,10 @@
 
 ## Tech Stack
 
-**AI/ML:** OpenAI, Claude, RAG, Pinecone, ChromaDB, Embeddings
-**Frontend:** React, Next.js, Vue.js, TypeScript
-**Backend:** Node.js, Laravel, Symfony, NestJS
-**Data:** PostgreSQL, MongoDB, Redis, ElasticSearch
+- **AI/ML:** OpenAI, Claude, RAG, Pinecone, ChromaDB, Embeddings
+- **Frontend:** React, Next.js, Vue.js, TypeScript
+- **Backend:** Node.js, Laravel, Symfony, PHP
+- **Data:** MySQL, MongoDB, Redis, ElasticSearch
 
 ## Links
 
