@@ -2,7 +2,7 @@
 
 **Full Stack Developer & Solutions Architect** with 20+ years of experience
 
-🎯 **Open to remote Senior/Principal Full Stack or Solutions Architect roles**
+🎯 **Open to remote Senior/Principal Full Stack or Solutions Architect Work/Contract/Consultancy**
 
 ## What I Do
 
