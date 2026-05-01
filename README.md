@@ -36,9 +36,7 @@
 
 ## Latest Blog Posts
 
-- [WordPress to Next.js + Directus](https://shyamverma.com/wordpress-to-nextjs-directus-honest-comparison) - Nov 2025
-- [Building a 26-Block CMS](https://shyamverma.com/building-type-safe-cms-block-system-nextjs) - Nov 2025
-- [Zero-Downtime Migration](https://shyamverma.com/zero-downtime-migration-reverse-proxy-strategy) - Oct 2025
-- [Next.js Middleware Multi-Tenancy](https://shyamverma.com/multi-tenant-nextjs-middleware-architecture) - Oct 2025
-- [Playwright MCP for Containers](https://shyamverma.com/playwright-mcp-wrapper-reliable-browser-automation-in-containers) - Oct 2025
-- [Two Years of Real AI Development](https://shyamverma.com/my-ai-development-journey-2023-2025) - Sep 2025
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Auto-updated from <a href="https://shyamverma.com/feed.xml">shyamverma.com/feed.xml</a> via <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a>.</sub>

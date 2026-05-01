@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull in shyamverma.com posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://shyamverma.com/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub><i>$date</i></sub>"
+          date_format: "mmm dd, yyyy"
+          commit_message: "chore: update latest blog posts"
