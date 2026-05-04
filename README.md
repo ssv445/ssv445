@@ -13,7 +13,7 @@
 ## Recent Work
 
 - **ReelAbilities Film Festival** (2025) - Multi-tenant film platform with Stripe Connect, WCAG 2.1 AA
-- **LinkStorm** (2023-24) - AI-powered SEO tool with RAG pipeline
+- **LinkStorm** (2023-26) - AI-powered SEO tool with RAG pipeline
 - **EcoMitram App** - Environmental community platform (Volunteer)
 
 ## Exits & Key Products
