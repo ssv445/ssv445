@@ -36,7 +36,8 @@
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [The Bottleneck Moved Up the Stack](https://shyamverma.com/bottleneck-moved-up-the-stack) <sub><i>Apr 30, 2026</i></sub>
+<!-- BLOG-POST-LIST:START -->
+- [The Bottleneck Moved Up the Stack](https://shyamverma.com/bottleneck-moved-up-the-stack) <sub><i>Apr 30, 2026</i></sub>
 - [Stop Overfeeding Your CLAUDE.md](https://shyamverma.com/stop-overfeeding-your-claude-md) <sub><i>Apr 17, 2026</i></sub>
 - [My MCP Servers Were Eating 3 GB of RAM](https://shyamverma.com/shared-mcp-servers-claude-code) <sub><i>Mar 27, 2026</i></sub>
 - [What 4,950 Claude Code Interactions Taught Me](https://shyamverma.com/what-4950-claude-code-interactions-taught-me) <sub><i>Mar 22, 2026</i></sub>
