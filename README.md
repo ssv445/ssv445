@@ -36,11 +36,11 @@
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [We Thought AI Was Killing Our SaaS. It Was a Dead CDN.](https://shyamverma.com/we-thought-ai-was-killing-our-saas) <sub><i>Aug 03, 2026</i></sub>
+<!-- BLOG-POST-LIST:START -->- [When the Machines Came](https://shyamverma.com/when-the-machines-came) <sub><i>Oct 15, 2026</i></sub>
+- [We Thought AI Was Killing Our SaaS. It Was a Dead CDN.](https://shyamverma.com/we-thought-ai-was-killing-our-saas) <sub><i>Aug 03, 2026</i></sub>
 - [How to Make Your Agents and Your Browser Friends](https://shyamverma.com/how-to-make-your-agents-and-your-browser-friends) <sub><i>Aug 02, 2026</i></sub>
 - [The Bottleneck Moved Up the Stack](https://shyamverma.com/bottleneck-moved-up-the-stack) <sub><i>Apr 30, 2026</i></sub>
 - [Stop Overfeeding Your CLAUDE.md](https://shyamverma.com/stop-overfeeding-your-claude-md) <sub><i>Apr 17, 2026</i></sub>
-- [My MCP Servers Were Eating 3 GB of RAM](https://shyamverma.com/shared-mcp-servers-claude-code) <sub><i>Mar 27, 2026</i></sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Auto-updated from <a href="https://shyamverma.com/feed.xml">shyamverma.com/feed.xml</a> via <a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a>.</sub>
