@@ -2,7 +2,7 @@
 
 **Full Stack Developer & Solutions Architect** with 20+ years of experience
 
-🎯 **Open to collobration**
+🎯 **Open to collaboration**
 
 ## What I Do
 
