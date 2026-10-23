@@ -2,7 +2,7 @@
 
 **Full Stack Developer & Solutions Architect** with 20+ years of experience
 
-🎯 **Open to collobration**
+🎯 **Open to collaboration**
 
 ## What I Do
 
@@ -12,6 +12,7 @@
 
 ## Recent Work
 
+- **[Poxture](https://poxture.com)** (2026) - Mac menu-bar app that checks your posture through the webcam, fully on-device, and nudges you with a glow at the notch
 - **ReelAbilities Film Festival** (2025) - Multi-tenant film platform with Stripe Connect, WCAG 2.1 AA
 - **LinkStorm** (2023-26) - AI-powered SEO tool with RAG pipeline
 - **EcoMitram App** - Environmental community platform (Volunteer)
@@ -31,6 +32,7 @@
 ## Links
 
 - 🌐 [shyamverma.com](https://shyamverma.com)
+- 🧘 [poxture.com](https://poxture.com) - posture app for Mac
 - 💼 [LinkedIn](https://linkedin.com/in/ssv445)
 - 🐦 [Twitter](https://twitter.com/ssv445)
 
