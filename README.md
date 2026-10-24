@@ -12,7 +12,7 @@
 
 ## Recent Work
 
-- **[Poxture](https://poxture.com)** (2026) - Mac menu-bar app that checks your posture through the webcam, fully on-device, and nudges you with a glow at the notch
+- **Poxture** (2026) - A [webcam posture monitor for Mac](https://poxture.com) that lives in the menu bar, runs fully on-device, and nudges you with a glow at the notch
 - **ReelAbilities Film Festival** (2025) - Multi-tenant film platform with Stripe Connect, WCAG 2.1 AA
 - **LinkStorm** (2023-26) - AI-powered SEO tool with RAG pipeline
 - **EcoMitram App** - Environmental community platform (Volunteer)
